@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
-
+### Start a json-server by opening a second terminal and writing
+json-server ---watch data/db.json
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
