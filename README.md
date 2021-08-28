@@ -1,5 +1,5 @@
 # project-planner
-
+An app based on this course : https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/
 ## Project setup
 ```
 npm install
